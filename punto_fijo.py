@@ -42,7 +42,7 @@ def funcion_iteracion(x):
     return result
 #OUTPUT
 if __name__ == "__main__":
-    print("Se utilizará la función f(x) = x^3 - 2*x - 5 para encontrar su raíz.")
+    print("Función f(x) = x^3 - 2*x - 5 para encontrar su raíz.")
     estimacion_inicial = float(input("Ingrese la estimación inicial de la raíz: "))
     punto_fijo = PuntoFijo(funcion_iteracion)
     print("\nUtilizando el método del Punto Fijo con la función de iteración:")
