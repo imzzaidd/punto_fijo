@@ -12,7 +12,7 @@
 #--------------------------------------------------------------------------------------------------
 #LIBRERIAS
 
-import math
+#import math
 
 #CLASE PRINCIPAL
 class PuntoFijo:
